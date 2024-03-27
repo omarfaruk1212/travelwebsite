@@ -1,0 +1,216 @@
+Travelia - Explore the world
+
+This is a travel html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = logo
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+
+
+
+
+
+
+
+
+
+aria-label = 
+
+
+
+
+#---------- HERO ----------#
+
+
+alt = 
+
+
+
+
+
+Plan a Trip
+
+
+alt = 
+
+
+
+alt = 
+
+
+
+#---------- SERVICE ----------#
+
+
+
+
+
+
+
+alt =   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#---------- DESTINATION ----------#
+
+
+
+
+alt = 
+
+$340
+
+
+
+
+
+<ion-icon name="star" aria-hidden="true"></ion-icon>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View All Destination
+
+
+
+#---------- EXPERIENCE ----------#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+alt = 
+alt = 
+
+
+
+#---------- GALLERY ----------#
+
+
+
+
+alt = 
+
+
+
+#---------- CTA ----------#
+
+
+alt = icon
+
+We have many special offers especially for you.
+
+Get Started
+
+
+
+#---------- FOOTER ----------#
+
+
+
+
+
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+placeholder = 
+
+aria-label = send a message
+<ion-icon name="paper-plane-outline" aria-hidden="true"></ion-icon>
+
+
+href = https://youtube.com/@codewithsadee
+codewithsadee
+
+Terms and Condition
+Privacy and Policy
